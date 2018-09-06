@@ -1,4 +1,4 @@
-# Spring Boot with MongoDB 
+# Spring AMQP communication with RabbitMQ 
 
 This sample project has the objective of show the integration between the technologies:
  * spring-amqp 
